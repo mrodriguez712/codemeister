@@ -22,7 +22,7 @@ numberOfWorks.textContent = works.length
 
 // projects
 for (let work of works) {
-    projectsEl.innerHTML =
+    projectsEl.innerHTML +=
     `
     <h2>${work.name}</h2>
     <p>${work.desc}</p>
