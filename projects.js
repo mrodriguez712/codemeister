@@ -85,9 +85,15 @@ export const works = [
         link: 'https://mrodriguez712.github.io/JSmetricconverter/',
     },           
     {
-        name: 'Project 14: Emoji Picker',
+        name: 'Project 15: Emoji Picker',
         desc: 'Post an emoji for adding or removing from beginning or end',
         linkdesc: 'Pick your emoji',
         link: 'https://mrodriguez712.github.io/JSemojipicker/',
-    },              
+    },      
+    {
+        name: 'Project 16: Oldagram',
+        desc: 'Another project from an online course with some small changes. This INSTA is based on the power rangers',
+        linkdesc: 'Insta',
+        link: 'https://mrodriguez712.github.io/instaranger/',
+    },             
 ]
